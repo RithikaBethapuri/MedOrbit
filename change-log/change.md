@@ -35,3 +35,20 @@ Completed
 
 ### Affected Area
 - `change-log/recommendations.md`
+
+---
+
+## Change: Create Silver Phase 1 conversation checkpoint
+
+### What
+Create a checkpoint markdown file of all progress from this conversation so work can continue on another device.
+
+### Why
+Preserve project understanding, locked Silver decisions, personal Databricks sandbox setup, and exact Silver Phase 1 step status for resume later.
+
+### Status
+Completed
+
+### Affected Area
+- `change-log/silver-phase1-checkpoint.md`
+- `change-log/change.md`
